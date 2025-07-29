@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Mahek</h1>
-- 🔭 I’m currently working on **CyberSecurity App**
+- 🚀 I'm currently working on a **CyberSecurity App**
 
 - 🌱 I’m currently learning **Java**
 

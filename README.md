@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=TheMahek&label=Profile%20views&color=0e75b6&style=flat" alt="TheMahek" />
 </p>
 
-- 🔭 I’m currently working on **CyberSecurity App**
+- 🔭 I’m currently working on **FamiPet — Smart Pet Care**
 
 - 🌱 I’m currently learning **Java**
 
@@ -20,16 +20,14 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMahek&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=TheMahek&theme=radical&hide_border=false" height="180"/>
-</p>
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMahek&theme=radical&hide_border=false&layout=compact" height="180"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=TheMahek&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=TheMahek&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMahek&theme=radical&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheMahek&theme=radical&no-frame=false&no-bg=false&margin-w=4)
